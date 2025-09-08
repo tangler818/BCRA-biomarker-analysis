@@ -1,7 +1,8 @@
 # BCRA-biomarker-analysis
 ML (Random Forest) guided biomarker identification 
 
-This repository contains a Python workflow for identifying predictive breast cancer biomarkers using Random Forest and Recursive Feature Elimination (RFE).
+This repo contains a Python script I created for identifying predictive breast cancer biomarkers using Random Forest and Recursive Feature Elimination (RFE), 
+as well as the metadata CSV I compiled in Excel using data from GSE175692 on the Gene Expression Omnibus (GEO) via GEO2R.
 
 # Project Overview
 
